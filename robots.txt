@@ -6,3 +6,7 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+Sitemap: https://atomicat-builder.desconto-no-curso.com.br/sitemap.xml
